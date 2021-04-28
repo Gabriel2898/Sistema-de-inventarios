@@ -1,0 +1,11 @@
+C:\Users\user\Documents\visual_2017_trabajos\inventarios-master\Sys.Inventarios\Repository\bin\Debug\Repository.dll
+C:\Users\user\Documents\visual_2017_trabajos\inventarios-master\Sys.Inventarios\Repository\bin\Debug\Repository.pdb
+C:\Users\user\Documents\visual_2017_trabajos\inventarios-master\Sys.Inventarios\Repository\bin\Debug\PagedList.dll
+C:\Users\user\Documents\visual_2017_trabajos\inventarios-master\Sys.Inventarios\Repository\bin\Debug\PagedList.Mvc.dll
+C:\Users\user\Documents\visual_2017_trabajos\inventarios-master\Sys.Inventarios\Repository\bin\Debug\PagedList.xml
+C:\Users\user\Documents\visual_2017_trabajos\inventarios-master\Sys.Inventarios\Repository\bin\Debug\PagedList.Mvc.xml
+C:\Users\user\Documents\visual_2017_trabajos\inventarios-master\Sys.Inventarios\Repository\obj\Debug\Repository.csprojAssemblyReference.cache
+C:\Users\user\Documents\visual_2017_trabajos\inventarios-master\Sys.Inventarios\Repository\obj\Debug\Repository.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\visual_2017_trabajos\inventarios-master\Sys.Inventarios\Repository\obj\Debug\Repository.csproj.CopyComplete
+C:\Users\user\Documents\visual_2017_trabajos\inventarios-master\Sys.Inventarios\Repository\obj\Debug\Repository.dll
+C:\Users\user\Documents\visual_2017_trabajos\inventarios-master\Sys.Inventarios\Repository\obj\Debug\Repository.pdb
